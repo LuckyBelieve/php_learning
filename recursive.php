@@ -8,6 +8,7 @@ function factorial($number){
     }
     return $val;
 }
+
 echo "the factorial of 5 is ".factorial(5);
 
 //this is the complete recursive function to output the factorial of the given number

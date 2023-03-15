@@ -28,6 +28,7 @@
         $email = $_POST['email'];
         $password = $_POST['password'];
 
+        
         //user validation
 
         if($username == 'lucky' && $password == 'lucky123'){

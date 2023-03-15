@@ -7,6 +7,13 @@
     <title>homepage</title>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li><a href="aboutus.php">about</a></li>
+            <li><a href="logout.php">logout</a></li>
+            <li><a href="homepage.php">homepage</a></li>
+        </ul>
+    </nav>
     <h1>welcome to our home page </h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, 
         numquam consequuntur eaque, autem laborum ea nam minima ducimus volupt
